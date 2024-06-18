@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+  .fondamento-regular {
+    font-family: "Fondamento", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .fondamento-regular-italic {
+    font-family: "Fondamento", cursive;
+    font-weight: 400;
+    font-style: italic;
+  }
+  body::-webkit-scrollbar {
+    display: none;
+  }
